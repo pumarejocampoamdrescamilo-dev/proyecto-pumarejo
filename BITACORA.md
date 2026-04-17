@@ -1,19 +1,47 @@
-# Bitácora
+#  Bitácora - Semana 1
 
-## Semana 1
+##  Fecha
 
-### ¿Qué hice?
+Semana 1 - Abril 2026
 
-Inicialicé el proyecto con Spring Boot, creé la estructura de carpetas según el diagrama de componentes y dejé el sistema funcionando.
+---
 
-### ¿Problemas?
+##  Objetivo
 
-Instalación de Git.
+Inicializar el framework, definir la estructura del proyecto y organizar el repositorio según los artefactos de diseño.
 
-### ¿Solución?
+---
 
-Instalación correcta de Git y configuración.
+##  Actividades realizadas
 
-### ¿Usé IA?
+* Inicialización del proyecto con Spring Boot
+* Configuración del entorno de desarrollo (Java, Maven, VS Code)
+* Ejecución del proyecto en entorno local
+* Creación de la estructura de carpetas basada en el diagrama de componentes
+* Organización del repositorio en GitHub
+* Creación del README.md
+* Carga inicial de documentación en la carpeta `docs/`
 
-Sí, ajusté la guía a mi proyecto.
+---
+
+##  Dificultades encontradas
+
+* Problemas iniciales con la ejecución de Maven
+* Configuración de Git en el equipo
+* Organización correcta del repositorio
+
+---
+
+##  Soluciones aplicadas
+
+* Uso del wrapper de Maven (`mvnw.cmd`)
+* Configuración de usuario en Git
+* Reorganización de carpetas según el diagrama de componentes
+
+---
+
+##  Avance
+
+Se logró completar la estructura base del proyecto, dejando listo el entorno para iniciar el desarrollo en las siguientes semanas.
+
+---
