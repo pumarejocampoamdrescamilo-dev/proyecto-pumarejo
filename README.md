@@ -54,7 +54,7 @@ Se utilizó **Spring Boot (Java)** como framework principal.
 
 ---
 
-## ▶ ¿Cómo ejecutar el proyecto?
+##  ¿Cómo ejecutar el proyecto?
 
 ### Requisitos:
 
